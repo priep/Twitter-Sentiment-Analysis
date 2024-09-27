@@ -28,8 +28,8 @@ It contains the following 6 fields:
 
 The project requires the following libraries to run:
 
-Python 3.x
-numpy (for numerical computations)
-pandas (for handling data frames)
-scikit-learn (for machine learning and preprocessing)
-nltk (for natural language processing tasks)
+1. Python 3.x
+2. numpy (for numerical computations)
+3. pandas (for handling data frames)
+4. scikit-learn (for machine learning and preprocessing)
+5. nltk (for natural language processing tasks)
